@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Zhibin Zhang</title>
-    <link>http://zhibzhang.com/categories/</link>
+    <link>http://zhibin-zhang.github.io/categories/</link>
     <description>Recent content in Categories on Zhibin Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://zhibzhang.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://zhibin-zhang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
